@@ -66,6 +66,5 @@ This project is licensed under the **MIT License**.
 
 ---
 🔗 **Developed by:** *Bruno Castanho*  
-📌 **GitHub Repository:** *[brunovmcastanho/ET4410-East-Tester-Automation](https://github.com/brunovmcastanho/ET4410-East-Tester-Automation)*
-```
+📌 **GitHub Repository:** *[brunovmcastanho/ET4410-East-Tester-Automation]([https://github.com/brunovmcastanho/ET4410-East-Tester-Automation](https://github.com/brunovmcastanho/ET4410-East-Tester-Automation-Interface/tree/main?tab=readme-ov-file))*
 
